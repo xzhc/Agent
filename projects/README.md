@@ -14,6 +14,10 @@
 - 每个项目一个目录，例如：`project-01-agent-chatbot/`
 - 每个项目应能独立运行
 
+## 当前内容
+
+- [00-python-for-agent-engineer/](/Users/xzh/Tech/CS/Agent/projects/00-python-for-agent-engineer/README.md)
+
 ## 每个项目建议包含
 
 1. 项目目标

@@ -37,7 +37,7 @@
 
 ### 学什么
 
-- Python 基础
+- [Python 基础](/Users/xzh/Tech/CS/Agent/notes/roadmaps/02-python-for-agent-engineer-roadmap.md)
 - 命令行、Git、虚拟环境、依赖管理
 - HTTP / API 的基本概念
 - JSON、文件读写、异常处理

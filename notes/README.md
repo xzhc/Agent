@@ -4,7 +4,15 @@
 
 本目录中的流程导航文档见 [learning-workflow.md](/Users/xzh/Tech/CS/Agent/notes/learning-workflow.md)。
 
-当前仓库的阶段化学习路线见 [agent-engineer-roadmap.md](/Users/xzh/Tech/CS/Agent/notes/agent-engineer-roadmap.md)。
+当前仓库的阶段化学习路线见 [01-agent-engineer-roadmap.md](/Users/xzh/Tech/CS/Agent/notes/roadmaps/01-agent-engineer-roadmap.md)。
+
+其中，`Python 基础` 的拆分路线见 [02-python-for-agent-engineer-roadmap.md](/Users/xzh/Tech/CS/Agent/notes/roadmaps/02-python-for-agent-engineer-roadmap.md)。
+
+与 Python 学习包配套的执行层内容见 [00-python-for-agent-engineer/](/Users/xzh/Tech/CS/Agent/notes/00-python-for-agent-engineer/README.md)。
+
+关于如何使用仓库内的 `agent-subtopic-roadmap` skill，见 [01-agent-subtopic-roadmap-skill-guide.md](/Users/xzh/Tech/CS/Agent/notes/skill-guides/01-agent-subtopic-roadmap-skill-guide.md)。
+
+关于如何使用仓库内的 `agent-subtopic-learning-pack` skill，见 [02-agent-subtopic-learning-pack-skill-guide.md](/Users/xzh/Tech/CS/Agent/notes/skill-guides/02-agent-subtopic-learning-pack-skill-guide.md)。
 
 ## 放什么
 
@@ -18,6 +26,8 @@
 
 - 按主题拆分，例如：`prompting.md`、`tool-calling.md`
 - 遇到复杂主题，可以单独建目录
+- 全局路线图统一放在 `notes/roadmaps/`
+- skill 说明统一放在 `notes/skill-guides/`
 
 ## 写作原则
 

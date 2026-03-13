@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Subtopic Roadmap"
+  short_description: "Generate focused Agent learning roadmaps"
+  default_prompt: "Use $agent-subtopic-roadmap to create a standalone roadmap for a subtopic in my Agent Engineer learning plan."

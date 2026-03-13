@@ -15,6 +15,10 @@
 - 阶段复盘：`YYYY-MM-DD-stage-review.md`
 - 项目复盘：`YYYY-MM-DD-project-review.md`
 
+## 当前内容
+
+- [00-python-for-agent-engineer/](/Users/xzh/Tech/CS/Agent/reviews/00-python-for-agent-engineer/README.md)
+
 ## 每次复盘建议回答
 
 1. 这次做成了什么

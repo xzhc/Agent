@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Subtopic Learning Pack"
+  short_description: "Build structured topic learning packs"
+  default_prompt: "Use $agent-subtopic-learning-pack to create or update a topic-scoped learning pack from a child roadmap in my Agent Engineer repo."

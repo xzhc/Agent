@@ -14,6 +14,10 @@
 - 每个主题单独一个目录，例如：`00-minimum-agent/`
 - 每个目录至少包含一个 `README.md`
 
+## 当前内容
+
+- [00-python-for-agent-engineer/](/Users/xzh/Tech/CS/Agent/lectures/00-python-for-agent-engineer/README.md)
+
 ## 每份讲义建议包含
 
 1. 本次目标

@@ -15,6 +15,10 @@
 - 每个实验一个目录，例如：`lab-01-first-llm-call/`
 - 每个实验尽量自包含，包含运行说明和预期结果
 
+## 当前内容
+
+- [00-python-for-agent-engineer/](/Users/xzh/Tech/CS/Agent/labs/00-python-for-agent-engineer/README.md)
+
 ## 每个实验建议包含
 
 1. 实验目标
