@@ -59,8 +59,8 @@ def main() -> None:
 
 ## 这讲学完后立刻去做
 
-- Lab：[02-build-a-small-router.md](/Users/xzh/Tech/CS/Agent/labs/00-python-for-agent-engineer/02-build-a-small-router.md)
-- Notes：记录“什么时候拆函数”和“我最容易把逻辑堆在一起的地方”
+- Lab：[02-build-a-small-router.md](/Users/xzh/Tech/CS/Agent/labs/00-python-for-agent-engineer/docs/02-build-a-small-router.md)
+- Notes：记录“什么时候拆函数”和“我最容易把逻辑堆在一起的地方”到 [02-control-flow-and-functions.md](/Users/xzh/Tech/CS/Agent/notes/00-python-for-agent-engineer/docs/02-control-flow-and-functions.md)
 
 ## 下一步建议
 

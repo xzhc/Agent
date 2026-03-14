@@ -2,7 +2,7 @@
 
 ## 项目名称
 
-- `projects/00-python-for-agent-engineer/project-01-python-llm-cli` 或 `projects/00-python-for-agent-engineer/project-02-python-local-tool-agent`
+- `projects/00-python-for-agent-engineer/code/project-01-python-llm-cli` 或 `projects/00-python-for-agent-engineer/code/project-02-python-local-tool-agent`
 
 ## 这次做成了什么
 

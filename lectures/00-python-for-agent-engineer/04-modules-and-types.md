@@ -57,8 +57,8 @@ if __name__ == "__main__":
 
 ## 这讲学完后立刻去做
 
-- Lab：[04-split-a-script-into-modules.md](/Users/xzh/Tech/CS/Agent/labs/00-python-for-agent-engineer/04-split-a-script-into-modules.md)
-- Notes：记录你自己的模块拆分原则
+- Lab：[04-split-a-script-into-modules.md](/Users/xzh/Tech/CS/Agent/labs/00-python-for-agent-engineer/docs/04-split-a-script-into-modules.md)
+- Notes：记录你自己的模块拆分原则到 [04-modules-and-types.md](/Users/xzh/Tech/CS/Agent/notes/00-python-for-agent-engineer/docs/04-modules-and-types.md)
 
 ## 下一步建议
 

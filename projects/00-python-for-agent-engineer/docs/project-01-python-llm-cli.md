@@ -1,5 +1,7 @@
 # Project 01：Python LLM CLI
 
+实现代码目录：`projects/00-python-for-agent-engineer/code/project-01-python-llm-cli/`
+
 ## 项目目标
 
 做一个最小但完整的命令行 LLM 调用器，把前 6 讲学到的 Python 基础串成一个可运行项目。
@@ -10,7 +12,7 @@
 
 - `lectures/00-python-for-agent-engineer/01` 到 `06`
 - `labs/00-python-for-agent-engineer/01` 到 `06`
-- `notes/00-python-for-agent-engineer/study-notes.md` 已经补到 lecture 06 和 lab 06
+- `notes/00-python-for-agent-engineer/docs/01` 到 `06` 已经补完
 
 ## 用户场景
 
@@ -43,7 +45,7 @@
 
 ## 运行方法
 
-你需要自己在项目目录里写运行说明，但至少应包括：
+你需要在代码目录里补齐运行说明，但至少应包括：
 
 - 如何创建环境
 - 如何安装依赖
@@ -61,7 +63,7 @@
 
 ## 已知问题
 
-在项目 README 里主动写出：
+在项目说明或代码目录配套文档里主动写出：
 
 - 现在还没有做哪些健壮性处理
 - 哪些错误只是最小处理

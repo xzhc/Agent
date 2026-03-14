@@ -12,19 +12,27 @@ lectures/<topic>/
 
 labs/<topic>/
   README.md
-  01-...
-  02-...
+  docs/
+    01-...
+    02-...
+  code/
+    01-.../
+    02-.../
 
 notes/<topic>/
   README.md
-  study-notes.md
+  docs/
+    01-...
+    02-...
 
 projects/<topic>/
   README.md
-  project-01-.../
-    README.md
-  project-02-.../
-    README.md
+  docs/
+    project-01-....md
+    project-02-....md
+  code/
+    project-01-.../
+    project-02-.../
 
 reviews/<topic>/
   README.md
@@ -68,6 +76,8 @@ If labs are in scope, the lab root README should include:
 - Execution order
 - When to enter projects
 - Completion criteria
+- A short note that lab instructions live in `docs/` and runnable files live in `code/`
+- The environment rule: `lab 01` may use its own temporary `.venv`, later labs in the same topic should share `labs/<topic>/.venv`
 
 If labs are deferred, the lab root README should still explain what will be added later and how labs map to lectures.
 
@@ -75,14 +85,17 @@ If labs are deferred, the lab root README should still explain what will be adde
 
 The notes area should capture reusable understanding, not chat history.
 
-The study notes file should usually include:
+Prefer one notes file per lecture/lab stage rather than one monolithic topic-wide notebook.
+
+Each stage note should usually include:
 
 - Lecture understanding
 - Lab records
 - Error patterns
 - Debugging paths
 - Codex collaboration notes
-- Project readiness checks
+
+The topic notes README should index the numbered note files and explain that the same-numbered lecture and lab share one notes file.
 
 ## Project expectations
 
@@ -100,6 +113,14 @@ Each project README should usually include:
 - 已知问题
 - 后续迭代方向
 - 项目完成标志
+
+Project topic roots should also explain that project specs live in `docs/` and implementations live in `code/`.
+Each project implementation should keep its own `.venv` instead of sharing the topic lab environment.
+
+## Environment automation expectations
+
+When a pack includes runnable labs or starter code, prefer adding or reusing a small local script that creates the topic-level lab environment.
+Do not assume a root-level repo-wide `.venv`.
 
 ## Review expectations
 

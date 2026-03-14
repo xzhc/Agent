@@ -65,6 +65,12 @@
 - 遇到常见错误时能自己排查一轮。
 - 知道 Codex 在这个实验里帮你加速了哪一部分，哪些判断仍然需要你自己做。
 
+环境约定：
+
+- `labs/` 的具体环境规则以 [labs/README.md](/Users/xzh/Tech/CS/Agent/labs/README.md) 为准。
+- 在学习流程层面，默认先通过 `lab 01` 练习独立创建干净环境，再在同一主题下复用主题级 `.venv`。
+- 项目环境应独立于 labs，避免依赖互相污染。
+
 ### `notes/`
 
 作用：
@@ -72,6 +78,12 @@
 - 沉淀长期有价值的理解，而不是重复聊天内容。
 - 形成自己的术语表、踩坑清单和调试套路。
 - 记录哪些 Codex 协作方式真正有效，哪些只是看起来省事。
+
+组织约定：
+
+- 默认按主题和阶段编号组织，不把整个主题都塞进一个大笔记文件。
+- 同一阶段的 lecture 和 lab 默认共用一份 notes，这样“学了什么、做了什么、踩了什么坑”能保持在同一个最小学习单元里。
+- 如果用户基于 lecture 或 lab 发起解释型提问，具体同步、映射和编辑规则以 [AGENTS.md](/Users/xzh/Tech/CS/Agent/AGENTS.md) 为准。
 
 完成标准：
 
@@ -92,6 +104,11 @@
 - 项目能完成一个明确用户任务。
 - 不只是 demo，而是有基本结构、运行方法和已知问题说明。
 - 能说清楚这个项目里 Codex 的协作边界。
+
+环境约定：
+
+- `projects/` 的具体环境规则以 [projects/README.md](/Users/xzh/Tech/CS/Agent/projects/README.md) 为准。
+- 在学习流程层面，只要求每个项目独立维护运行环境，不与 labs 混用。
 
 ### `reviews/`
 
@@ -176,6 +193,12 @@
 - 工作流还没稳定，经常变。
 - 你自己还没有验证过什么做法真正有效。
 
+和自动化相关的判断：
+
+- 如果只是想把主题级 labs 共享环境稳定创建出来，优先写脚本或仓库命令，而不是只改 skill。
+- skill 适合固化“以后生成学习包时要遵守什么约定”，不适合替代实际执行环境初始化。
+- 也就是说，环境自动化通常需要两层：skill 负责生成约定，脚本负责真正落地执行。
+
 ## 推荐节奏
 
 如果当前是从零开始，建议按下面节奏推进：
@@ -201,12 +224,13 @@
 
 ## 当前仓库的建议起点
 
-当前仓库已经有基础目录结构，下一步建议是：
+当前仓库已经有 `00-python-for-agent-engineer` 学习包，建议按下面顺序进入：
 
-1. 在 `lectures/` 创建第一份讲义：`00-minimum-agent/`
-2. 在 `labs/` 创建第一个实验：`lab-01-first-llm-call/`
-3. 用第一轮最小闭环跑通“从调用模型到完成一个简单任务”
-4. 在第一轮内容里同步加入“如何与 Codex 协作完成最小任务”
+1. 从 [lectures/00-python-for-agent-engineer/README.md](/Users/xzh/Tech/CS/Agent/lectures/00-python-for-agent-engineer/README.md) 开始，按编号顺序推进讲义。
+2. 在 [labs/00-python-for-agent-engineer/README.md](/Users/xzh/Tech/CS/Agent/labs/00-python-for-agent-engineer/README.md) 完成对应实验。
+3. 将稳定理解、报错模式和调试路径写入 [notes/00-python-for-agent-engineer/README.md](/Users/xzh/Tech/CS/Agent/notes/00-python-for-agent-engineer/README.md) 下对应编号的 notes。
+4. 按 [projects/00-python-for-agent-engineer/README.md](/Users/xzh/Tech/CS/Agent/projects/00-python-for-agent-engineer/README.md) 的阶段入口进入项目。
+5. 完成一个阶段后，到 [reviews/00-python-for-agent-engineer/README.md](/Users/xzh/Tech/CS/Agent/reviews/00-python-for-agent-engineer/README.md) 做复盘。
 
 ## 使用建议
 

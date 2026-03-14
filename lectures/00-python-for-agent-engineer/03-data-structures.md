@@ -58,8 +58,8 @@ print(latest_user_message)
 
 ## 这讲学完后立刻去做
 
-- Lab：[03-normalize-message-data.md](/Users/xzh/Tech/CS/Agent/labs/00-python-for-agent-engineer/03-normalize-message-data.md)
-- Notes：记录你最容易写错的嵌套结构访问方式
+- Lab：[03-normalize-message-data.md](/Users/xzh/Tech/CS/Agent/labs/00-python-for-agent-engineer/docs/03-normalize-message-data.md)
+- Notes：记录你最容易写错的嵌套结构访问方式到 [03-data-structures.md](/Users/xzh/Tech/CS/Agent/notes/00-python-for-agent-engineer/docs/03-data-structures.md)
 
 ## 下一步建议
 

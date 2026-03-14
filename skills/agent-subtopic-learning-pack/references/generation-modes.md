@@ -27,7 +27,7 @@ Create:
 
 - Lecture set
 - Topic root READMEs
-- Study notes template
+- Notes scaffolding
 - Project/review timing guidance
 - Lab scaffolding or concise task cards only if needed for structure
 

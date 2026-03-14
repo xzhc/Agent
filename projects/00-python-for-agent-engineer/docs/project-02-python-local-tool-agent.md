@@ -1,5 +1,7 @@
 # Project 02：Python Local Tool Agent
 
+实现代码目录：`projects/00-python-for-agent-engineer/code/project-02-python-local-tool-agent/`
+
 ## 项目目标
 
 做一个本地工具驱动的最小 Agent Runner，把 Python 基础正式映射到 Agent 代码形态。
@@ -11,7 +13,7 @@
 - `Project 01`
 - `lectures/00-python-for-agent-engineer/07`
 - `labs/00-python-for-agent-engineer/07`
-- `notes/00-python-for-agent-engineer/study-notes.md` 已补到 lecture 07 和 lab 07
+- `notes/00-python-for-agent-engineer/docs/01` 到 `07` 已补完
 
 ## 用户场景
 
@@ -45,7 +47,7 @@
 
 ## 运行方法
 
-你需要在项目目录里写清楚：
+你需要在代码目录里写清楚：
 
 - 如何运行
 - 输入长什么样

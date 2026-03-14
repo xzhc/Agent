@@ -53,9 +53,9 @@ def main() -> None:
 
 ## 这讲学完后立刻去做
 
-- Lab：[06-build-a-minimal-llm-caller.md](/Users/xzh/Tech/CS/Agent/labs/00-python-for-agent-engineer/06-build-a-minimal-llm-caller.md)
-- Notes：记录错误分类和排查顺序
-- Project：做 [project-01-python-llm-cli/README.md](/Users/xzh/Tech/CS/Agent/projects/00-python-for-agent-engineer/project-01-python-llm-cli/README.md)
+- Lab：[06-build-a-minimal-llm-caller.md](/Users/xzh/Tech/CS/Agent/labs/00-python-for-agent-engineer/docs/06-build-a-minimal-llm-caller.md)
+- Notes：记录错误分类和排查顺序到 [06-http-and-model-calls.md](/Users/xzh/Tech/CS/Agent/notes/00-python-for-agent-engineer/docs/06-http-and-model-calls.md)
+- Project：做 [project-01-python-llm-cli.md](/Users/xzh/Tech/CS/Agent/projects/00-python-for-agent-engineer/docs/project-01-python-llm-cli.md)
 
 ## 下一步建议
 

@@ -46,7 +46,7 @@
 ## 对应文件
 
 - Labs 总览：[00-python-for-agent-engineer/README.md](/Users/xzh/Tech/CS/Agent/labs/00-python-for-agent-engineer/README.md)
-- Notes 模板：[study-notes.md](/Users/xzh/Tech/CS/Agent/notes/00-python-for-agent-engineer/study-notes.md)
+- Notes 索引：[00-python-for-agent-engineer/README.md](/Users/xzh/Tech/CS/Agent/notes/00-python-for-agent-engineer/README.md)
 - 项目区：[00-python-for-agent-engineer/README.md](/Users/xzh/Tech/CS/Agent/projects/00-python-for-agent-engineer/README.md)
 - 阶段复盘区：[00-python-for-agent-engineer/README.md](/Users/xzh/Tech/CS/Agent/reviews/00-python-for-agent-engineer/README.md)
 

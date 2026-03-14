@@ -28,6 +28,12 @@ Always read:
 Then read only the relevant existing topic pack, if one exists and is a good structural reference.
 
 Use the current Python learning pack as the default reference shape for cross-directory organization.
+In that reference shape, labs and projects keep instructions in `docs/` and runnable code in `code/`.
+Also preserve the environment policy used by that pack:
+
+- `lab 01` is allowed to use its own temporary `.venv` because environment creation is part of the exercise
+- later labs in the same topic should share `labs/<topic>/.venv`
+- each project should keep its own `.venv` inside its implementation directory
 
 ### 2. Confirm the generation mode from the request
 
@@ -50,7 +56,7 @@ Use the child roadmap as the source of truth for:
 - Which stages deserve lectures
 - Which stages need corresponding labs now versus later
 - When enough capability has accumulated to justify a project
-- What should be captured in study notes and reviews
+- What should be captured in stage-aligned notes and reviews
 
 The learning pack is the execution layer of the roadmap, not a second roadmap.
 
@@ -63,6 +69,14 @@ Create or update the pack using this layout:
 - `notes/<topic>/`
 - `projects/<topic>/`
 - `reviews/<topic>/`
+
+Within topic-scoped `labs/` and `projects/` folders, prefer:
+
+- `docs/` for instructions, task cards, and project specs
+- `code/` for runnable implementations and scaffolding
+
+When generating lab and project scaffolding, encode the repo's environment convention in the relevant READMEs rather than leaving environment layout implicit.
+For notes, prefer numbered files that align with the corresponding lecture/lab pair rather than one topic-wide catch-all notes file.
 
 Use [references/learning-pack-template.md](references/learning-pack-template.md) for the default structure and file expectations.
 

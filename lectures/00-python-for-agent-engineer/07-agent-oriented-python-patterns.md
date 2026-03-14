@@ -55,9 +55,9 @@ def run_agent(user_input: str) -> dict:
 
 ## 这讲学完后立刻去做
 
-- Lab：[07-build-a-local-tool-agent-loop.md](/Users/xzh/Tech/CS/Agent/labs/00-python-for-agent-engineer/07-build-a-local-tool-agent-loop.md)
-- Notes：记录“控制流先坏在哪里”和“工具边界怎么定”
-- Project：做 [project-02-python-local-tool-agent/README.md](/Users/xzh/Tech/CS/Agent/projects/00-python-for-agent-engineer/project-02-python-local-tool-agent/README.md)
+- Lab：[07-build-a-local-tool-agent-loop.md](/Users/xzh/Tech/CS/Agent/labs/00-python-for-agent-engineer/docs/07-build-a-local-tool-agent-loop.md)
+- Notes：记录“控制流先坏在哪里”和“工具边界怎么定”到 [07-agent-oriented-python-patterns.md](/Users/xzh/Tech/CS/Agent/notes/00-python-for-agent-engineer/docs/07-agent-oriented-python-patterns.md)
+- Project：做 [project-02-python-local-tool-agent.md](/Users/xzh/Tech/CS/Agent/projects/00-python-for-agent-engineer/docs/project-02-python-local-tool-agent.md)
 
 ## 下一步建议
 

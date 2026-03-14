@@ -54,8 +54,8 @@ def main() -> None:
 
 ## 这讲学完后立刻去做
 
-- Lab：[05-config-json-and-error-handling.md](/Users/xzh/Tech/CS/Agent/labs/00-python-for-agent-engineer/05-config-json-and-error-handling.md)
-- Notes：记录你常见的异常模式和日志字段
+- Lab：[05-config-json-and-error-handling.md](/Users/xzh/Tech/CS/Agent/labs/00-python-for-agent-engineer/docs/05-config-json-and-error-handling.md)
+- Notes：记录你常见的异常模式和日志字段到 [05-io-json-errors-and-logging.md](/Users/xzh/Tech/CS/Agent/notes/00-python-for-agent-engineer/docs/05-io-json-errors-and-logging.md)
 
 ## 下一步建议
 

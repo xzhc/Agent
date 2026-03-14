@@ -57,8 +57,8 @@ if __name__ == "__main__":
 
 ## 这讲学完后立刻去做
 
-- Lab：[01-run-a-script-in-a-clean-env.md](/Users/xzh/Tech/CS/Agent/labs/00-python-for-agent-engineer/01-run-a-script-in-a-clean-env.md)
-- Notes：把解释器、虚拟环境、依赖安装和环境变量的排查顺序记到 [study-notes.md](/Users/xzh/Tech/CS/Agent/notes/00-python-for-agent-engineer/study-notes.md)
+- Lab：[01-run-a-script-in-a-clean-env.md](/Users/xzh/Tech/CS/Agent/labs/00-python-for-agent-engineer/docs/01-run-a-script-in-a-clean-env.md)
+- Notes：把解释器、虚拟环境、依赖安装和环境变量的排查顺序记到 [01-runtime-and-environment.md](/Users/xzh/Tech/CS/Agent/notes/00-python-for-agent-engineer/docs/01-runtime-and-environment.md)
 
 ## 下一步建议
 

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stage Note Sync"
+  short_description: "Sync lecture or lab explanations into stage notes"
+  default_prompt: "Use $stage-note-sync to answer my question about selected lecture or lab text and write the explanation into the corresponding stage note."

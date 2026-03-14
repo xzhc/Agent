@@ -2,10 +2,15 @@
 
 这个目录用于统一管理 `00-python-for-agent-engineer` 主题下的阶段项目。
 
+目录约定：
+
+- 项目说明放在 `docs/`
+- 项目实现放在 `code/`
+
 ## 当前内容
 
-- [project-01-python-llm-cli/](/Users/xzh/Tech/CS/Agent/projects/00-python-for-agent-engineer/project-01-python-llm-cli/README.md)
-- [project-02-python-local-tool-agent/](/Users/xzh/Tech/CS/Agent/projects/00-python-for-agent-engineer/project-02-python-local-tool-agent/README.md)
+- [project-01-python-llm-cli.md](/Users/xzh/Tech/CS/Agent/projects/00-python-for-agent-engineer/docs/project-01-python-llm-cli.md)
+- [project-02-python-local-tool-agent.md](/Users/xzh/Tech/CS/Agent/projects/00-python-for-agent-engineer/docs/project-02-python-local-tool-agent.md)
 
 ## 使用方式
 
