@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learning Repo Git Ops"
+  short_description: "Split learning-repo changes into clean commits and drive the Git helper"
+  default_prompt: "Use $learning-repo-git-ops to inspect my current changes, split them into clean commits for this learning repo, generate commit messages, and optionally run the helper script to commit and push."

@@ -14,6 +14,10 @@
 
 关于如何使用仓库内的 `agent-subtopic-learning-pack` skill，见 [02-agent-subtopic-learning-pack-skill-guide.md](/Users/xzh/Tech/CS/Agent/notes/skill-guides/02-agent-subtopic-learning-pack-skill-guide.md)。
 
+关于如何使用仓库内的 Git 提交自动化 skill，见 [03-learning-repo-git-ops-skill-guide.md](/Users/xzh/Tech/CS/Agent/notes/skill-guides/03-learning-repo-git-ops-skill-guide.md)。
+
+关于如何使用主题 labs 环境初始化脚本，见 [04-setup-topic-lab-env-script-guide.md](/Users/xzh/Tech/CS/Agent/notes/skill-guides/04-setup-topic-lab-env-script-guide.md)。
+
 ## 放什么
 
 - 概念笔记
