@@ -18,6 +18,8 @@
 
 关于如何使用主题 labs 环境初始化脚本，见 [04-setup-topic-lab-env-script-guide.md](/Users/xzh/Tech/CS/Agent/notes/skill-guides/04-setup-topic-lab-env-script-guide.md)。
 
+关于如何使用仓库内的代码审查与笔记同步 skill，见 [05-learning-code-review-sync-skill-guide.md](/Users/xzh/Tech/CS/Agent/notes/skill-guides/05-learning-code-review-sync-skill-guide.md)。
+
 ## 放什么
 
 - 概念笔记

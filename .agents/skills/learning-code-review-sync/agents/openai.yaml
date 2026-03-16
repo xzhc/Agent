@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learning Code Review Sync"
+  short_description: "Review lab or project code and sync findings"
+  default_prompt: "Use $learning-code-review-sync to review my lab or project code and write the findings and fix plan into the matching notes or review file."
